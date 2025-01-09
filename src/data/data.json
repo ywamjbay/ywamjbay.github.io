@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
+        "title": "YWAM Jeffreys Bay",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
@@ -86,31 +86,47 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Daniel",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Mella",
+            "job": "Director"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Lukanya",
+            "job": "Assitant Director"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Blessing",
+            "job": "Staff"
+        },
+        {
+            "img": "img/team/05.jpg",
+            "name": "Nadine",
+            "job": "Staff"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Lukas",
+            "job": "Staff"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Christine",
+            "job": "Staff"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
+        "address": "14 St Francis St, Jeffreys Bay, 6330, South Africa ",
+        "phone": "+27 79 407 1865",
+        "alt ph: "+27 78 722 1208",
         "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "facebook": "https://facebook.com/ywamjbay",
+        "twitter": "https://x.com/ywamjbay",
+        "youtube": "https://youtube.com/watch?v=Mc_R_2JejDI"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
